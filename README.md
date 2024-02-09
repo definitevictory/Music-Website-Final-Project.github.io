@@ -3,6 +3,6 @@
 Image of my GUI
 
 Feature Descriptions
-[] Item 1
+[ ] Item 1
 
 Text Descriptions for Website
